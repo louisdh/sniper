@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SniperEngine.IntegerHelper" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>IntegerHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SniperEngine.Point">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABABgAAAAYAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SniperEngine.SolidObject">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoIEAARIpgAkAgZgQBAQIFARoQEoA0HhCE6IoALObAA=</HashCode>
+      <FileName>SolidObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SniperEngine.Vector">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Vector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SniperEngine.World">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAABAAACEQCQARAEkwAAQAAAEEIAAQECAAEIAM=</HashCode>
+      <FileName>World.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SniperEngine.Shapes">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shapes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
