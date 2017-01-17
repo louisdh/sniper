@@ -1,4 +1,4 @@
-<center><img src="readme-resources/sniper-logo-512.png" style="max-height: 300px; margin-bottom:-55px; margin-top:-50px;"></center>
+<p align="center"><img src="readme-resources/sniper-logo-512.png" style="max-height: 300px; margin-bottom:-55px; margin-top:-50px;"><p>
 
 #<center>S.N.I.P.E.R.</center>
 
